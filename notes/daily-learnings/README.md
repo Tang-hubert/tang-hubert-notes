@@ -19,7 +19,7 @@ daily-learnings/
 
 | Year | Summary | Skills |
 |------|---------|--------|
-| 2026 | [2026.md](2026/2026.md) | 74 skills |
+| 2026 | [2026.md](2026/2026.md) | 76 skills |
 
 ## Quick Links
 
@@ -103,6 +103,10 @@ daily-learnings/
 - [2026-05-26: i-En 監控 Job 停用 (27fbcaf7 enabled: false, 停用但保留)](2026/05/2026-05-26.md)
 - [2026-05-30: OpenClaw Release Tracker 修復 (isolated agentTurn + 中文翻譯流程, Features/Bug Fixes 完整內容)](2026/05/2026-05-30.md)
 - [2026-05-31: External-User LINE Bot 安全架構 (Cloudflare Worker + https://openclaw.brt1122.com + per-user rate limiting)](2026/05/2026-05-31.md)
+
+#### June
+- [2026-06-05: External-User 付款資訊 KV 防禦 + Rate Limiting 7/min (三層架構, KV payment_info 動態讀取, 知識庫遷移方向)](2026/06/2026-06-05.md)
+- [2026-06-06: wim_to_notes_sync Cron Job 停用 (5f454887, 停用但保留模式)](2026/06/2026-06-06.md)
 
 ## Knowledge Base
 
