@@ -19,7 +19,7 @@ daily-learnings/
 
 | Year | Summary | Skills |
 |------|---------|--------|
-| 2026 | [2026.md](2026/2026.md) | 77 skills |
+| 2026 | [2026.md](2026/2026.md) | 78 skills |
 
 ## Quick Links
 
@@ -108,6 +108,7 @@ daily-learnings/
 - [2026-06-05: External-User 付款資訊 KV 防禦 + Rate Limiting 7/min (三層架構, KV payment_info 動態讀取, 知識庫遷移方向)](2026/06/2026-06-05.md)
 - [2026-06-06: wim_to_notes_sync Cron Job 停用 (5f454887, 停用但保留模式)](2026/06/2026-06-06.md)
 - [2026-06-07: brt1122-System-09 硬體健檢 (CPU/Mem/NVMe/網路健康, GPU nvidia kernel module 未載入, sda 932GB 未掛載)](2026/06/2026-06-07.md)
+- [2026-06-08: Threads 全面進化 + MEMORY 濃縮 + LINE Signature 修復 (richsong112 漢堡理論, 進化計畫全執行, MEMORY 500+→135行, LINE 401 修復)](2026/06/2026-06-08.md)
 
 ## Knowledge Base
 
