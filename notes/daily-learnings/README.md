@@ -19,7 +19,7 @@ daily-learnings/
 
 | Year | Summary | Skills |
 |------|---------|--------|
-| 2026 | [2026.md](2026/2026.md) | 79 skills |
+| 2026 | [2026.md](2026/2026.md) | 80 skills |
 
 ## Quick Links
 
@@ -110,6 +110,7 @@ daily-learnings/
 - [2026-06-07: brt1122-System-09 硬體健檢 (CPU/Mem/NVMe/網路健康, GPU nvidia kernel module 未載入, sda 932GB 未掛載)](2026/06/2026-06-07.md)
 - [2026-06-08: Threads 全面進化 + MEMORY 濃縮 + LINE Signature 修復 (richsong112 漢堡理論, 進化計畫全執行, MEMORY 500+→135行, LINE 401 修復)](2026/06/2026-06-08.md)
 - [2026-06-11: Session 效能管理 + 雞肉團購專案整理 (main_idea.md 移轉至 knowledge/base/)](2026/06/2026-06-11.md)
+- [2026-06-12: 雞肉團購客服 Phase 1 上線 + Knowledge 結構化重構 (config.js 載入器, 開團日期 YYYY-MM-DD, 8項精進決議, main_idea.md 12檔案遷移, 純 Prompt 不上 RAG, Cognee 5000ms timeout)](2026/06/2026-06-12.md)
 
 ## Knowledge Base
 
