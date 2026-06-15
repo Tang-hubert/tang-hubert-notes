@@ -19,7 +19,7 @@ daily-learnings/
 
 | Year | Summary | Skills |
 |------|---------|--------|
-| 2026 | [2026.md](2026/2026.md) | 81 skills |
+| 2026 | [2026.md](2026/2026.md) | 82 skills |
 
 ## Quick Links
 
@@ -112,6 +112,7 @@ daily-learnings/
 - [2026-06-11: Session 效能管理 + 雞肉團購專案整理 (main_idea.md 移轉至 knowledge/base/)](2026/06/2026-06-11.md)
 - [2026-06-12: 雞肉團購客服 Phase 1 上線 + Knowledge 結構化重構 (config.js 載入器, 開團日期 YYYY-MM-DD, 8項精進決議, main_idea.md 12檔案遷移, 純 Prompt 不上 RAG, Cognee 5000ms timeout)](2026/06/2026-06-12.md)
 - [2026-06-13: Cognee autoRecall 修復 + Phase 1 P1-1~P1-5 完整實作 (LINE Bot 不回覆, 白名單/Profile Cache/取消意圖/欄位統一/KB 觸發, OpenClaw 4:00 daily reset 改閒置制, commit e8454ba)](2026/06/2026-06-13.md)
+- [2026-06-14: 雞肉客服完整 Review + 6 批次執行 + OpenClaw Delivery Bug (production runtime 認知, Bug #0 Worker IGNORED_KEYWORDS, Bug 1/2 修補, 多租戶規模化, SOP, 儀表板 MVP, OpenClaw delivery hook bug)](2026/06/2026-06-14.md)
 
 ## Knowledge Base
 
