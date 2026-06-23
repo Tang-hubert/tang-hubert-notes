@@ -19,7 +19,7 @@ daily-learnings/
 
 | Year | Summary | Skills |
 |------|---------|--------|
-| 2026 | [2026.md](2026/2026.md) | 85 skills |
+| 2026 | [2026.md](2026/2026.md) | 86 skills |
 
 ## Quick Links
 
@@ -116,6 +116,7 @@ daily-learnings/
 - [2026-06-15: 雞肉客服 11 項問題全修補 + 鏡像架構 + Cloudflare Tunnel (人設改客服專員, D6 action blocks CSV, D4 街口KV分流, dashboard-server + Basic Auth, external-user workspace 鏡像, Cloudflare Quick Tunnel 404)](2026/06/2026-06-15.md)
 - [2026-06-16: Cloudflare Tunnel 404 排查 + 新訂單流程架構 (放棄監聽式 order-listener, 改用 LINE quick reply+postback+API, Step 1-4 完成但實測失敗, OpenClaw exec 環境無法保持 background, manage-tunnel.sh, SESSION_BACKGROUND.md 7.5KB)](2026/06/2026-06-16.md)
 - [2026-06-22: 設定檔健檢 + GitHub Trending 補發 + Hermes 凍結 + Headroom 實作 (TOOLS去重/HEARTBEAT同步MEMORY, GitHub Trending cron 失敗率30% + failureAlert, 補發5個重點repo, Hermes Blueprint 1477行, Headroom v0.1 Anthropic backend, OpenMontage i-En 影片規劃)](2026/06/2026-06-22.md)
+- [2026-06-23: GitHub Trending 修補 + 雞肉 A2 架構 + MEMORY 重組 + Headroom 切回 direct (Model stop-short 新失敗模式, prompt.md 硬性要求, 雞肉 Rich Menu+Worker 取代 quick reply, 4客戶體驗修正, MEMORY 三層L1/L2/L3, 工作方法論 v2 Actor-Critic/TRAP, Headroom 量化決策切回 direct, i-En v0.1.1 影片渲染成功)](2026/06/2026-06-23.md)
 
 ## Knowledge Base
 
