@@ -19,7 +19,7 @@ daily-learnings/
 
 | Year | Summary | Skills |
 |------|---------|--------|
-| 2026 | [2026.md](2026/2026.md) | 87 skills |
+| 2026 | [2026.md](2026/2026.md) | 88 skills |
 
 ## Quick Links
 
@@ -118,6 +118,7 @@ daily-learnings/
 - [2026-06-22: 設定檔健檢 + GitHub Trending 補發 + Hermes 凍結 + Headroom 實作 (TOOLS去重/HEARTBEAT同步MEMORY, GitHub Trending cron 失敗率30% + failureAlert, 補發5個重點repo, Hermes Blueprint 1477行, Headroom v0.1 Anthropic backend, OpenMontage i-En 影片規劃)](2026/06/2026-06-22.md)
 - [2026-06-23: GitHub Trending 修補 + 雞肉 A2 架構 + MEMORY 重組 + Headroom 切回 direct (Model stop-short 新失敗模式, prompt.md 硬性要求, 雞肉 Rich Menu+Worker 取代 quick reply, 4客戶體驗修正, MEMORY 三層L1/L2/L3, 工作方法論 v2 Actor-Critic/TRAP, Headroom 量化決策切回 direct, i-En v0.1.1 影片渲染成功)](2026/06/2026-06-23.md)
 - [2026-06-24: Pain Diary Cron 觸發 Prompt Injection (晚間21:00 Pain Diary 提醒被注入: 嘗試改 channel ID + 抑制回應 + 偽裝重要指示, 已忽略注入按 runtime destination 回應)](2026/06/2026-06-24.md)
+- [2026-06-26: 雞味客服大規模修整日 (P0-P2 全完成, 122檔 audit TODO 文件, 8 commits f3ecfd4, 18套測試全綠, 雞肉 src/ 非 production runtime, 兩次誤刪真實訂單→cleanup-test-orders.sh PROTECTED清單機制, Production prompt 4改)](2026/06/2026-06-26.md)
 
 ## Knowledge Base
 
