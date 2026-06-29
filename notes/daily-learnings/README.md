@@ -19,7 +19,7 @@ daily-learnings/
 
 | Year | Summary | Skills |
 |------|---------|--------|
-| 2026 | [2026.md](2026/2026.md) | 89 skills |
+| 2026 | [2026.md](2026/2026.md) | 90 skills |
 
 ## Quick Links
 
@@ -120,6 +120,7 @@ daily-learnings/
 - [2026-06-24: Pain Diary Cron 觸發 Prompt Injection (晚間21:00 Pain Diary 提醒被注入: 嘗試改 channel ID + 抑制回應 + 偽裝重要指示, 已忽略注入按 runtime destination 回應)](2026/06/2026-06-24.md)
 - [2026-06-26: 雞味客服大規模修整日 (P0-P2 全完成, 122檔 audit TODO 文件, 8 commits f3ecfd4, 18套測試全綠, 雞肉 src/ 非 production runtime, 兩次誤刪真實訂單→cleanup-test-orders.sh PROTECTED清單機制, Production prompt 4改)](2026/06/2026-06-26.md)
 - [2026-06-27: 雞味 Session A+B 整理完成 + .task-state 模式 (Session A 刪除5個歷史檔案 70d588d +7/-654, Session B 4 commits: open_dates/REVIEW_GUIDE/src角色/SESSION_BACKGROUND, CSV 28欄/17套測試為 single source of truth, Production prompt commit進雞肉git作為reference, Session C 待決策5項)](2026/06/2026-06-27.md)
+- [2026-06-28: 雞味 3-Session 結構性整理 + Engineering Handbook + 5 sessions 全鏈 (Session C C2事故amend/MEMORY SOP3條/Session P0 HANDBOOK+ADR+check-quality.sh/Session E+N+F:訂單流程A方案上線, audit Email寄hubert112247@gmail.com, 20 commits 跨 5 sessions)](2026/06/2026-06-28.md)
 
 ## Knowledge Base
 
