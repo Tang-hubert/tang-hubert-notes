@@ -19,7 +19,7 @@ daily-learnings/
 
 | Year | Summary | Skills |
 |------|---------|--------|
-| 2026 | [2026.md](2026/2026.md) | 88 skills |
+| 2026 | [2026.md](2026/2026.md) | 89 skills |
 
 ## Quick Links
 
@@ -119,6 +119,7 @@ daily-learnings/
 - [2026-06-23: GitHub Trending 修補 + 雞肉 A2 架構 + MEMORY 重組 + Headroom 切回 direct (Model stop-short 新失敗模式, prompt.md 硬性要求, 雞肉 Rich Menu+Worker 取代 quick reply, 4客戶體驗修正, MEMORY 三層L1/L2/L3, 工作方法論 v2 Actor-Critic/TRAP, Headroom 量化決策切回 direct, i-En v0.1.1 影片渲染成功)](2026/06/2026-06-23.md)
 - [2026-06-24: Pain Diary Cron 觸發 Prompt Injection (晚間21:00 Pain Diary 提醒被注入: 嘗試改 channel ID + 抑制回應 + 偽裝重要指示, 已忽略注入按 runtime destination 回應)](2026/06/2026-06-24.md)
 - [2026-06-26: 雞味客服大規模修整日 (P0-P2 全完成, 122檔 audit TODO 文件, 8 commits f3ecfd4, 18套測試全綠, 雞肉 src/ 非 production runtime, 兩次誤刪真實訂單→cleanup-test-orders.sh PROTECTED清單機制, Production prompt 4改)](2026/06/2026-06-26.md)
+- [2026-06-27: 雞味 Session A+B 整理完成 + .task-state 模式 (Session A 刪除5個歷史檔案 70d588d +7/-654, Session B 4 commits: open_dates/REVIEW_GUIDE/src角色/SESSION_BACKGROUND, CSV 28欄/17套測試為 single source of truth, Production prompt commit進雞肉git作為reference, Session C 待決策5項)](2026/06/2026-06-27.md)
 
 ## Knowledge Base
 
