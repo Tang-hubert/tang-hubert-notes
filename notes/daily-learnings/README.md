@@ -19,7 +19,7 @@ daily-learnings/
 
 | Year | Summary | Skills |
 |------|---------|--------|
-| 2026 | [2026.md](2026/2026.md) | 90 skills |
+| 2026 | [2026.md](2026/2026.md) | 91 skills |
 
 ## Quick Links
 
@@ -121,6 +121,7 @@ daily-learnings/
 - [2026-06-26: 雞味客服大規模修整日 (P0-P2 全完成, 122檔 audit TODO 文件, 8 commits f3ecfd4, 18套測試全綠, 雞肉 src/ 非 production runtime, 兩次誤刪真實訂單→cleanup-test-orders.sh PROTECTED清單機制, Production prompt 4改)](2026/06/2026-06-26.md)
 - [2026-06-27: 雞味 Session A+B 整理完成 + .task-state 模式 (Session A 刪除5個歷史檔案 70d588d +7/-654, Session B 4 commits: open_dates/REVIEW_GUIDE/src角色/SESSION_BACKGROUND, CSV 28欄/17套測試為 single source of truth, Production prompt commit進雞肉git作為reference, Session C 待決策5項)](2026/06/2026-06-27.md)
 - [2026-06-28: 雞味 3-Session 結構性整理 + Engineering Handbook + 5 sessions 全鏈 (Session C C2事故amend/MEMORY SOP3條/Session P0 HANDBOOK+ADR+check-quality.sh/Session E+N+F:訂單流程A方案上線, audit Email寄hubert112247@gmail.com, 20 commits 跨 5 sessions)](2026/06/2026-06-28.md)
+- [2026-06-29: 跨日工作收尾 + CI/CD + 5 hardcode + 9 dead config + Backup Cron (檔案位置修正以完成日為記錄, Session G CI/CD+ESLint+nvmrc+timezone統一, Session D3 5 hardcode改config, Session D4 9 dead config flag isFeatureEnabled統一, ESLint 64+40→0 warnings, Session K logger.js結構化logging, Session M backup.sh+7天rotation, OpenClaw Cron bd933551每天02:00備份, 測試19→29套全綠)](2026/06/2026-06-29.md)
 
 ## Knowledge Base
 
