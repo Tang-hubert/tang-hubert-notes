@@ -19,7 +19,7 @@ daily-learnings/
 
 | Year | Summary | Skills |
 |------|---------|--------|
-| 2026 | [2026.md](2026/2026.md) | 94 skills |
+| 2026 | [2026.md](2026/2026.md) | 96 skills |
 
 ## Quick Links
 
@@ -125,6 +125,8 @@ daily-learnings/
 - [2026-06-30: Housekeeping + 主位置 5 項修整 + A 方案實測 + SESSION_Q (5 commits pushed, MEMORY.md L2 §I-5 housekeeping SOP 5步3分鐘, timeUtils.test.js mock修, 02:00 OpenClaw cron跑了2次, A方案實測發現菜單沒傳圖+回覆卡住+Dashboard未啟動 → SESSION_Q prompt 251行, 測試29→30套全綠)](2026/06/2026-06-30.md)
 - [2026-07-01: Session J+F+G Close + 完整系統掃描 + Phase 3 6個新Sessions (5 commits + commit f4a77fa, G4 新增 check-quality.sh lint gate 8/8, 完整系統掃描發現10+gap分3優先級, Phase 3 6個新Session Prompt H8/X1-X5, 4個追蹤文件統一交叉引用更新, 推薦順序: X2→H8→X1→X4→X3→X5=6.5hr, 測試30→32套全綠)](2026/07/2026-07-01.md)
 - [2026-07-03: Phase 3 全部 6 Sessions 完成 + Status Drift 修整 + Memory Archive (跨4天9 events 20 commits, X2→H8→X1→X4→X3→X5一次跑完3.5hr, H8 13模組獨立測試+X1 production-prompt versioning+X4 csvWriter retry+X3 5個API端點+X5 /healthz, 測試32→48套+50%, check-quality 8/8含KB Source of Truth, Status Drift 修整 commit 1e74e57 5檔, 第3次Prompt Injection 06-24/06-25/07-02, Memory Archive 4 files)](2026/07/2026-07-03.md)
+- [2026-07-16: 雞味客服 20 commits + XDG Secrets + Handoff Best Practices (XDG ~/.config/chicken/secrets/ reboot-safe, LINE push loop緊急事件 c6438e8 HUMAN_HANDOFF guard+1分鐘debounce雙層保護, test fixture污染 PASSWORD='***'是OpenClaw exec redact, Handoff文件強化 a9cf237: HANDOFF.md 9K→14K/PROJECT_INVENTORY.md 8K→11K/SESSION_NEXT_PROMPT.md 8K→12K, 5個best practices來源: aihero.dev/mindstudio.ai/xtrace.ai/softaworks/plane.so, Round 1-4: lint+test修整/文件drift/9個P+緊急修整/P4街口支付傳圖/P9 Google Sheets, XDG 3個secrets, 9個P狀態: P1✅/P2✅方案B/P3✅/P4🔴/P5✅/P6⏳/P7✅/P8✅/P9⏳)](2026/07/2026-07-16.md)
+- [2026-07-17: 9個P全部完成 + B方案 + 文件v4全面對齊 (跨日工作7.5小時22:28 7/16→06:26 7/17完成 22 commits, 9個P全部完成: P1 LINE_BOT_TOKEN/P2老闆回覆方案B/P3 Quick Reply/P4街口支付傳圖+QR code主動推5c40664/P5付款狀態/P6 OCR analyzer minimax vision/P7訂單完整性/P8 Dashboard/P9 Google Sheets 662筆訂單寫入, B方案LLM自動建單X-API-Token認證, 文件4份全面對齊v4: SESSION_NEXT_PROMPT.md 19157 bytes+HANDOFF.md+PROJECT_INVENTORY.md+memory/2026-07-17.md, GitHub repo改為private 2026-07-17 04:31, LINE免費版月配額500 messages已額滿下次reset 2026-08-01, 測試48→49套+1 integration全綠, check-quality 11/11, 下次session入口: Gmail整合 4-6小時 clawbrt@gmail.com OAuth 2.0)](2026/07/2026-07-17.md)
 
 ## Knowledge Base
 
