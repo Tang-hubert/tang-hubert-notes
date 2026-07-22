@@ -19,7 +19,7 @@ daily-learnings/
 
 | Year | Summary | Skills |
 |------|---------|--------|
-| 2026 | [2026.md](2026/2026.md) | 97 skills |
+| 2026 | [2026.md](2026/2026.md) | 98 skills |
 
 ## Quick Links
 
@@ -128,6 +128,7 @@ daily-learnings/
 - [2026-07-16: 雞味客服 20 commits + XDG Secrets + Handoff Best Practices (XDG ~/.config/chicken/secrets/ reboot-safe, LINE push loop緊急事件 c6438e8 HUMAN_HANDOFF guard+1分鐘debounce雙層保護, test fixture污染 PASSWORD='***'是OpenClaw exec redact, Handoff文件強化 a9cf237: HANDOFF.md 9K→14K/PROJECT_INVENTORY.md 8K→11K/SESSION_NEXT_PROMPT.md 8K→12K, 5個best practices來源: aihero.dev/mindstudio.ai/xtrace.ai/softaworks/plane.so, Round 1-4: lint+test修整/文件drift/9個P+緊急修整/P4街口支付傳圖/P9 Google Sheets, XDG 3個secrets, 9個P狀態: P1✅/P2✅方案B/P3✅/P4🔴/P5✅/P6⏳/P7✅/P8✅/P9⏳)](2026/07/2026-07-16.md)
 - [2026-07-17: 9個P全部完成 + B方案 + 文件v4全面對齊 (跨日工作7.5小時22:28 7/16→06:26 7/17完成 22 commits, 9個P全部完成: P1 LINE_BOT_TOKEN/P2老闆回覆方案B/P3 Quick Reply/P4街口支付傳圖+QR code主動推5c40664/P5付款狀態/P6 OCR analyzer minimax vision/P7訂單完整性/P8 Dashboard/P9 Google Sheets 662筆訂單寫入, B方案LLM自動建單X-API-Token認證, 文件4份全面對齊v4: SESSION_NEXT_PROMPT.md 19157 bytes+HANDOFF.md+PROJECT_INVENTORY.md+memory/2026-07-17.md, GitHub repo改為private 2026-07-17 04:31, LINE免費版月配額500 messages已額滿下次reset 2026-08-01, 測試48→49套+1 integration全綠, check-quality 11/11, 下次session入口: Gmail整合 4-6小時 clawbrt@gmail.com OAuth 2.0)](2026/07/2026-07-17.md)
 - [2026-07-18: Gmail 整合 v0→v7 + LINE 500/月釐清 + 89 cloudflared 清理 + 系統整理開始 (跨日工作14+小時 17:16 7/17→08:10 7/18完成 13 commits, Gmail整合完整鏈: OAuth loopback Desktop app+4種版型+中文付款+版型v5簡化, 永遠LINE+Email並行, 架構釐清: LINE 500/月只outbound P4/P6不消耗LINE, 4個Cloudflare角色, 4個Cron Jobs測試中: 日報23:30/週報週日10:00/Sheets sync 03:00/cloudflared cleanup每小時, 89 cloudflared清理+periodic cron, Hubert Gmail寄信警告: 測試只寄一封, P4/P6邏輯測試完成 awaitingPayment 12 tests + receiptAnalyzer 10 tests, 測試49→51套全綠, 3個Bug修正, 13條新提醒, Session 08:59系統整理開始 19個config.yaml.bak.* + 跨文檔套數漂移 + Phase A drift修整執行中)](2026/07/2026-07-18.md)
+- [2026-07-22: Round 1+2 + Sign B + Sign C-all 48/48 套 test framework 統一 (跨2d 12h+約60+小時長時間session, 11個Sign-on任務+12 commits, Bug #1 cascade雙邊fix chicken.yaml+Worker DEFAULT_IGNORED_KEYWORDS, CRITICAL發現PRODUCTION CRASH ALREADY EXISTED formatCustomerReply alias一次修兩個問題, Worker deploy v 683f6f9b, Sign C-all自訂assert統一為node:test風格8 batches+1 amend, Sign D探索Worker FAQ /api/knowledge endpoint未執行, Sign E deferred GCP key rotate 84天寬限, npm test 53套全綠, 7大教訓)](2026/07/2026-07-22.md)
 
 ## Knowledge Base
 
