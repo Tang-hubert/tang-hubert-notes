@@ -19,7 +19,7 @@ daily-learnings/
 
 | Year | Summary | Skills |
 |------|---------|--------|
-| 2026 | [2026.md](2026/2026.md) | 101 skills |
+| 2026 | [2026.md](2026/2026.md) | 103 skills |
 
 ## Quick Links
 
@@ -132,6 +132,7 @@ daily-learnings/
 - [2026-07-21: i-En 大手術 + Drift Cleanup + 11 commits + 5 大教訓 (從昨晚03:00到23:18長時間session i-En自2026-04-07以來最大結構整理, IG token+Publisher.js修復: graph.facebook.com v21.0/IG Business ID 17841448905632128/Post ID 17953159779196103發文成功, Monitor OAuth過期→App Password SMTP smtps://smtp.gmail.com:465+新fail-safe logs/ien_monitor_errors.log防silent fail, Drift Cleanup 7 commits Group A→G: gitignore/SQLite db.js/uploader→r2Upload+githubUpload/Brain 529重試+health_check.js+config_backup.js/SPEC.md+cron README/test-db.js 19套/npm test 18檔+1225/-272行, OpenClaw cron dabbab38每周一09:00健康檢查+Monitor警報機制, 意外發現Meta新政策IG long-lived token expires_at:0永久有效, i-En pipeline [DONE]整天跑4次證明健康, 5大教訓: 寫入工具sanitization filter/Gitignore內嵌註解陷阱/結構性變更依賴圖/silent fail危險/uncommitted rename 3個月drift)](2026/07/2026-07-21.md)
 - [2026-07-19: Round 9-14 文件 drift + Named Tunnel 轉移 + 4 cron delivery 修復 (7個Round一整天, 文件drift收尾/H/L級修正/GCP drift/L1 watchdog/Named Tunnel轉移 + 4 cron delivery channel修復 + Worker audit v2, 13 commits, Named Tunnel brt1122-System-09 UUID 256e22ec-d01f-4f78-83f6-c929889173eb reuse不新建 systemd自動管理 PID 1543 從5/02跑78+天穩定, Dashboard URL https://dashboard.brt1122.com 固定, Worker deploy v e919157f, 4個announce cron統一channel:1528418702167638016 watchdog停用, 3個LEGACY標頭: 雞味專案攏長檔案, check-quality 12通過/1警告/0失敗 Check 11 Ignored Keywords同步新增)](2026/07/2026-07-19.md)
 - [2026-07-20: Round 14 收尾 + Medium/Low 全部完成 + Check 1 Stale-State Bug Fix + Round 1+2 (跨日工作8+小時 2026-07-19 22:30→2026-07-22 06:30 4個獨立sessions, Session 1 Round 14 chronology Named Tunnel轉移+4 cron delivery修復+5個Medium/Low phase完成, Session 2 Check 1 Stale-State Bug csv-writer-concurrency.test.js失敗根因不是race condition而是_lock dir殘留 setup/cleanup加LOCK_DIR_SIBLING預先清除, Session 3 4份必讀文檔更新 HANDOFF.md §1-§5補完整重寫9.6 KB+刪除.swp vim swap file, Session 4 Round 1+2 Bug #1 cascade 4 bugs全fix+P0 #1-#4+P1 B14/B16含PRODUCTION CRASH ALREADY EXISTED, Worker deploy v e919157f, 教訓整合5+5條)](2026/07/2026-07-20.md)
+- [2026-07-23: Round 15 Sign D/E/G/H 完整收尾 (Sub-session 02:44-03:10 30分鐘承接昨日23:08 close-out後的next-step補齊, Sign H驗證 chmod 600 OAuth credentials已修, Sign E §7.1 scripts/key_age_check.sh 63行 <60天🟢/60-89天🟡/≥90天🔴/不存在❌+commit 15fd6ad+實測google-service-account 6天old 🟢 OK, Sign E §7.2 OpenClaw cron 356045d8 每月1號09:00 Asia/Taipei, Sign G Check 10 AGENTS.md drift修法 sync-canonical.sh改printf '%s\n'+check-quality.sh改tail -n +14跳13行+commit 03afb64, Sign D Worker FAQ前處理 src/kb-content.ts 5566 bytes 19 FAQ entries+/api/knowledge endpoint+STEP 4.6 inline KB matching, wrangler deploy成功v 9a2ac102-0de3-4fd9-aed9-e43ff696a081 Worker commit c703d35, deploy size 29.47 KiB gzip 8.42 KiB 符合1MB Worker限制, 4個endpoint驗證case全綠, Apply to external-user sync-canonical+sync-config+sync-mirror跑完, Scan+Patch L2 §I-5清理5個 > 7天.bak, check-quality 12通過/1警告/0失敗, npm test 53個測試檔100% pass, 4大教訓)](2026/07/2026-07-23.md)
 
 ## Knowledge Base
 
