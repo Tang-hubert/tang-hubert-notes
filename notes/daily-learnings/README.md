@@ -19,7 +19,7 @@ daily-learnings/
 
 | Year | Summary | Skills |
 |------|---------|--------|
-| 2026 | [2026.md](2026/2026.md) | 112 skills |
+| 2026 | [2026.md](2026/2026.md) | 113 skills |
 
 ## Quick Links
 
